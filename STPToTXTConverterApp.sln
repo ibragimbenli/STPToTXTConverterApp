@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STPToTXTConverterApp", "STPToTXTConverterApp.csproj", "{DABD9EC1-C78D-4BF3-ABD0-E24E37B73730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABD9EC1-C78D-4BF3-ABD0-E24E37B73730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABD9EC1-C78D-4BF3-ABD0-E24E37B73730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABD9EC1-C78D-4BF3-ABD0-E24E37B73730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABD9EC1-C78D-4BF3-ABD0-E24E37B73730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B04768F-92BD-4244-AC2C-595E5DC6B67D}
+	EndGlobalSection
+EndGlobal
